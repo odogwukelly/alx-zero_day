@@ -1,2 +1,1 @@
-my first readme 
-congratulations 
+my first readme file
